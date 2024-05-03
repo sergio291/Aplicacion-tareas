@@ -1,21 +1,20 @@
 # 📌 Aplicación de Tareas
 ¡Hola! Esta es una aplicación de tareas interactiva desarrollada con React. Puedes agregar una tarea, eliminarla de la lista y marcarla como completada.
 
-## Ejecutar la Aplicación
+## Ejecutar la Aplicación 💻
 Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado ctrl + ñ si tu teclado está en español y con ctrl + `  si tu teclado está en inglés.
 
 La aplicación se abrirá automáticamente en el navegador configurado por defecto en tu dispositivo y se ejecutará en localhost:3000.
-## Available Scripts
 
-In the project directory, you can run:
+En el directorio del proyecto, puede ejecutar:
 
 ### `npm start`
+Ejecuta la aplicación en modo de desarrollo.
+Abra http://localhost:3000 para verlo en su navegador.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se recargará cuando realice cambios.
+También puedes ver errores de pelusa en la consola.
+In the project directory, you can run:
 
 ## Learn More
 
