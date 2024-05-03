@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# 📌 Aplicación de Tareas
+¡Hola! Esta es una aplicación de tareas interactiva desarrollada con React. Puedes agregar una tarea, eliminarla de la lista y marcarla como completada.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Ejecutar la Aplicación
+Para iniciar la aplicación, debes ejecutar el comando npm start en el terminal. Si trabajas con Visual Studio Code, puedes abrir el terminal con el atajo de teclado ctrl + ñ si tu teclado está en español y con ctrl + `  si tu teclado está en inglés.
 
+La aplicación se abrirá automáticamente en el navegador configurado por defecto en tu dispositivo y se ejecutará en localhost:3000.
 ## Available Scripts
 
 In the project directory, you can run:
